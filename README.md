@@ -2,6 +2,7 @@
 <html lang="uk">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Beer store</title>
 <link rel="stylesheet" href="stylesGrid.css">
 </head>
